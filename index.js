@@ -1,0 +1,1 @@
+window.HiddenForm = require('hidden-form')
